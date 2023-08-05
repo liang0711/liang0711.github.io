@@ -2,7 +2,7 @@
 title:  "Ecommerce Product Arrival Analysis"
 layout: post
 ---
-#### Keywords: `XGBoost`,`Machine Learning`,`Data Visualzation,`Python`
+#### Keywords: `XGBoost`,`Machine Learning`,`Data Visualzation`,`Python`
 
 ##### Goal: Tunning hyperparamters for higher accuracy of Product Arrival
 

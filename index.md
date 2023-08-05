@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "About Me 😊"
+title: "About Me"
 ---
 Hello :)
 I am Lizzy Zhao, **looking for job opportunities in the data world!**
 
 I'm a data-driven persona and have a solid foundation for data-centric analysis and machine learning methodologies to deliver meaningful insights for improving business and boosting operational efficiency. A little bit about myself, by utilizing Python/SQL to unearth valuable business insights through NLP and data visualization. My journey has also honed my technical skills as well as an emphasis on understanding users needs quantitatively. 
 
-**df.desribe():**
+**df.describe():**
  - Quantitative Skills: Python (NumPy, Pandas, Scikit-learn, Seaborn, etc.), SQL, Tableau, PowerBI, Git, AWS, Web Scarping
    
- - Methodologies: Machine Learning, NLP, A/B Test, statistical analysis, UAT Test, customer segementation, marketing strategy, risk management
+ - Methodologies: Machine Learning, NLP, A/B Test, risk management, statistical analysis, UAT Test, customer segementation, marketing strategy
    
  - Qualitative skills: communication, collobration, project management
 

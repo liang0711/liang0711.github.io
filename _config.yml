@@ -16,8 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidbaricon}
-  - {file: "index.html", title: "Home Change"}
-  - {file: "README.md", title: "About Me“}
+  - {file: "index.html", title: "My Resume"}
+  - {file: "README.md", title: "Projects“}
+  - {file: "README.md", title: "Life“}
+  
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

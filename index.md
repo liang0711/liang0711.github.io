@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me '͜'"
+title: "About Me 😊"
 ---
 Hello :)
 I am Lizzy Zhao, **looking for job opportunities in the data world!**

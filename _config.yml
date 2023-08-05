@@ -1,5 +1,5 @@
 title: "😊 Lizzy Zhao"
-author: "😊 Lizzy Zhao"
+author: "Lizzy Zhao"
 description: "Lizzy Zhao's Website"
 permalink: /:title/
 lang: "en"
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidbaricon}
-  - { title: "Resume", file: "LiangZhao.pdf"}
+  - {title: "Resume", url: "/LiangZhao.pdf"}
   - {title: "Projects", file: "Projects.md"}
   - {title: "Blog",file: "Blogs.md"}
 

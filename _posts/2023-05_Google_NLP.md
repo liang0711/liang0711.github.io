@@ -1,15 +1,25 @@
 ---
-title:  "Google Play Store Apps Rating Prediction and Sentiment Analysis"
+title: "Welcome to Jekyll"
 layout: post
-categories: project
 ---
-#### Keywords: NLP, Random Forest, Logistic Regression, Data, Python
 
-Goal: Rating Prediction of Google Play Store Apps
-
-In this project, we will be using the dataset of Google Play Store apps to help app-making businesses.
-By understanding the factors that influence app ratings can help app developers create better products. By analyzing user reviews, developers can identify areas for improvement and make changes to increase user satisfaction.
-In order to achieve those goals, we will conduct effective machine learning models to analyze and predict the app ratings based on category and price the app, number of user reviews, install amount, and target age group.
-Also, we will conduct sentiment analysis based on the users’ reviews of apps to predict the type of sentiment. Overall, our project aim to provide valuable insights for both app developers and consumers, leading to better app products and more satisfying user experience.
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

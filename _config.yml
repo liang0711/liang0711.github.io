@@ -1,6 +1,6 @@
 title: "[Sun] Lizzy Zhao"
 author: "Lizzy Zhao"
-description: "description: "Lizzy's Website <b style=\"color: #00008B;\">&#x2600;</b>"
+description: "description: "Lizzy's Website"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidbaricon}
-  - {file: "index.html", title: "Home Change", icon: home}
-  - {file: "README.md", title: "About Me", icon: address-card}
+  - {file: "index.html", title: "Home Change"}
+  - {file: "README.md", title: "About Me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lz2871@columbia.edu"}

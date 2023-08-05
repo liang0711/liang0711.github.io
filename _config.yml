@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "[Sun] Lizzy Zhao"
+author: "Lizzy Zhao"
+description: "description: "Lizzy's Website <b style=\"color: #00008B;\">&#x2600;</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -15,14 +15,15 @@ minimal: false             # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+navigation:                # accepts {file, title, url, icon, sidbaricon}
+  - {file: "index.html", title: "Home Change", icon: home}
+  - {file: "README.md", title: "About Me", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:lz2871@columbia.edu"}
+  - {title: Subscribe, icon: "fab fa-linkedin", url: "https://www.linkedin.com/in/liang-lizzy-zhao/"}
+  - {title: Github, icon: github, url: "https://github.com/liang0711"}
+ 
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

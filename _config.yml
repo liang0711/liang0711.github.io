@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidbaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lz2871@columbia.edu"}
-  - {title: Subscribe, icon: "fab fa-linkedin", url: "https://www.linkedin.com/in/liang-lizzy-zhao/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/liang-lizzy-zhao/"}
   - {title: Github, icon: github, url: "https://github.com/liang0711"}
  
 

@@ -1,17 +1,12 @@
 ---
-title:  "Advanced examples"
-mathjax: true
+title:  "NYC Housing Price Performance Dashboard"
 layout: post
 categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
-
-
-
 
 ## Images
-
+![Dashboard](/assets/NYC_Housing_Price_Dashboard.png)
 Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
 
 A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.

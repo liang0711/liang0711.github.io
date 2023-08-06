@@ -5,7 +5,7 @@ categories: media
 ---
 
 
-#### Tags: Data Visualization, Tableau, Dashboards, 
+#### Tags: `Data Visualization`, `Tableau`, `Dashboards` 
 ![Dashboard](/assets/NYC_Housing_Price_Dashboard.png)
 
 

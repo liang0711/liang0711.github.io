@@ -1,5 +1,5 @@
 ---
-title:  " Built Cloud DB by Web Scrapping Booking real-time Hotel Listing"
+title:  " Booking: Built Cloud Database by Web Scrapping Real-time Data"
 layout: post
 categories: media
 ---

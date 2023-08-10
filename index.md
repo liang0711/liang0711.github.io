@@ -23,6 +23,6 @@ I'm a data-driven persona and have a solid foundation for data-centric analysis 
 
 Beyond the data world, dancing serves as my intrests as well, enabling me to connect with the physical world in a dynamic and rejuvenating way. My love for hip-hop/k-pop dancing ignites my spirit, while my fascination with engaging projects continues to captivate my curiosity.
 
-**Feel free to explore my data-related projects and I'm excitedly anticipating our conversation via email lz2871@columbia.edu**
+**Feel free to explore my data-related projects and I'm excitedly anticipating our conversation via chat/email lz2871@columbia.edu**
 
 

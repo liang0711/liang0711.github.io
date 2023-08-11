@@ -8,12 +8,16 @@ Hola!
 ### My Expertise ###
 I am Lizzy Zhao, **looking for job opportunities in the data world!**
 
-I'm a data-driven persona and have a solid foundation for data-centric analysis and machine learning methodologies to deliver meaningful insights for improving business and boosting operational efficiency. A little bit about myself, by utilizing Python/SQL to unearth valuable business insights through NLP and data visualization. My journey has also honed my technical skills as well as an emphasis on understanding users needs quantitatively. 
+I'm An accomplished data scientist and have a solid foundation of data-centric analysis and machine learning methodologies to deliver meaningful insights, for improving business and boosting operational efficiency. A little bit about myself, by utilizing Python/SQL to to deploy advanced statistical models to derive actionable insights from complex datasets and drive strategic decisions. 
+
+My journey has also honed my technical skills as well as an emphasis on identifying objetives and providing strategic solutions. I defintely earger to apply my expertise into field like technology, finance, healthcare, sustainability, market research, customer behavior and more! Feel free to explore my data-related projects and contact me!
+
+
 
 **df.describe():**
  - Quantitative Skills: Python (NumPy, Pandas, Scikit-learn, Seaborn, etc.), SQL,Google Cloud Platform, Tableau, PowerBI, Git, AWS, Web-Scarping
    
- - Methodologies: Machine Learning, NLP, A/B Test, Statistical Analysis,, Customer Segementation, Marketing Strategy, Risk Management
+ - Methodologies: Machine Learning, NLP, A/B Test, Statistical Analysis, Customer Segementation, Marketing Strategy, Risk Management
    
  - Qualitative skills: Communication, Collobration, Coordianting, Project Management, Operational Research, Data-Driven Decision Making
 

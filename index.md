@@ -17,7 +17,7 @@ I'm a data-driven persona and have a solid foundation for data-centric analysis 
    
  - Qualitative skills: Communication, Collobration, Coordianting, Project Management, Operational Research, Data-Driven Decision Making
 
-### My Life ###
+### My Journey ###
 
 Currently, I will be graduating during Dec. 2023 and I am a statistics student at Columbia University and eagerly soaking up knowledge to enhance my data analysis skills! Meanwhile, I was born in Jingdezhen, a city renowned as porcelain capital, began my global experience at sophomore year in Erie, PA and lived in NYC further expanded my horizons, allowing me to perceive the world through an international lens.
 

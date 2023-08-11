@@ -8,6 +8,10 @@ categories: media
 #### Tags: `Web Scrapping`,`Database`,`Google Cloud Platform`,`Business Analysis`
 
 ##### Goal: Database of Hotel Pricing 
+
+
+
+
 ![Dashboard](/assets/Book_Hotel_Pricing.png)
 
 

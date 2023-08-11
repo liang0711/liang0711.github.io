@@ -23,9 +23,9 @@ My journey has also honed my technical skills as well as an emphasis on identify
 
 ### My Journey ###
 
-Currently, I will be graduating during Dec. 2023 and I am a statistics student at Columbia University and eagerly soaking up knowledge to enhance my data analysis skills! Meanwhile, I was born in Jingdezhen, a city renowned as porcelain capital, began my global experience at sophomore year in Erie, PA and lived in NYC further expanded my horizons, allowing me to perceive the world through an international lens.
+Currently, I will be graduating during Dec. 2023 and I am a statistics student at Columbia University and eagerly soaking up knowledge to enhance my data analysis skills! Meanwhile, I came from China, began my global experience at sophomore year in Erie, PA and lived in NYC further expanded my horizons, allowing me to perceive the world through an international lens.
 
-Beyond the data world, dancing serves as my interests as well, enabling me to connect with the physical world in a dynamic and rejuvenating way. My love for hip-hop/k-pop dancing ignites my spirit, while my fascination with engaging projects continues to captivate my curiosity.
+Beyond the data world, dancing serves as my interests as well, enabling me to connect with the physical world in a rejuvenating way. My love for hip-hop/k-pop dancing ignites my spirit, while my fascination with engaging projects continues to captivate my curiosity.
 
 **Feel free to explore my data-related projects and I'm excitedly anticipating our conversation via chat/email lz2871@columbia.edu**
 

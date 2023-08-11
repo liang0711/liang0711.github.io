@@ -21,8 +21,9 @@ title: "Resume"
 ---
 # Data Science Projects
 - [NYC Housing Price Performance Dashboard](https://liang0711.github.io/housing-Performance-examples/)
-- [Booking: Built Cloud Database by Web Scrapping Real-time Information](https://liang0711.github.io/Projects/)
+- [Booking: Built Cloud Database by Web Scrapping Real-time Information](https://liang0711.github.io/Web-Scraping-and-Cloud-Database/)
 - [Google Play Store: Apps Rating Prediction and Sentiment Analysis](https://liang0711.github.io/Google/)
-- [Ecommerce Product Arrival Analysis](https://liang0711.github.io/Ecommerce/)
 - [DS Hackthon: Healthcare Patient’s Medication Safety Prediction](https://liang0711.github.io/Hackthon/)
+- [Ecommerce Product Arrival Analysis](https://liang0711.github.io/Ecommerce/)
+
 ---

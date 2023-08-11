@@ -26,4 +26,6 @@ title: "Resume"
 - [DS Hackthon: Healthcare Patient’s Medication Safety Prediction](https://liang0711.github.io/Hackthon/)
 - [Ecommerce Product Arrival Analysis](https://liang0711.github.io/Ecommerce/)
 
+**Feel free to explore my data-related projects and email lz2871@columbia.edu, or click the right bottom email symbol**
+
 

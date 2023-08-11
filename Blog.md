@@ -10,7 +10,7 @@ title: "Resume"
   
 - #### Tencent Inc. - Shenzhen, CN ####
   ***Business Intelligence Intern** – (Oct 2020 – Dec 2023)*
-
+---
 # EDUCATION #
  #### Columbia University @ US - 2022-2023 ####
  - Master of Statistics

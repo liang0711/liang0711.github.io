@@ -3,19 +3,19 @@ layout: default
 title: "Resume"
 ---
 # Experience #
-- #### Columbia University - New York, NY
+- #### Columbia University - New York, NY ####
   ***Research Assisstant** – (Jun 2023 – Present)*
-- #### China International Capital Corporation - Shenzhen, CN
+- #### China International Capital Corporation - Shenzhen, CN ####
   ***Data Analyst** - (Jul 2021 – Aug 2021)*
   
 - #### Tencent Inc. - Shenzhen, CN ####
-  ***Business Intelligence Intern** – (Oct 2020 – Dec 2023)***
+  ***Business Intelligence Intern** – (Oct 2020 – Dec 2023)*
 
 # EDUCATION #
  #### Columbia University @ US - 2022-2023 ####
   - Master of statistics
   - Core Coursework: Statistical Analysis, Machine Learning, Linear Regression, Optimization, Deep Learning, Cloud Computing
-#### University of California, Santa Barbara @ CA - 2018 to 2022####
+#### University of California, Santa Barbara @ CA - 2018 to 2022 ####
   - Bachelor of Actuarial Science
   - Core Coursework: Time Series, Calculus, Linear Algebra, Statistics, Microeconomics, Management
 

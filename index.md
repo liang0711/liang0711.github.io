@@ -10,12 +10,10 @@ I am Lizzy Zhao, **looking for job opportunities in the data world!**
 
 I'm An accomplished data scientist and have a solid foundation of data-centric analysis and machine learning methodologies to deliver meaningful insights, for improving business and boosting operational efficiency. A little bit about myself, by utilizing Python/SQL to to deploy advanced statistical models to derive actionable insights from complex datasets and drive strategic decisions. 
 
-My journey has also honed my technical skills as well as an emphasis on identifying objetives and providing strategic solutions. I defintely earger to apply my expertise into field like technology, finance, healthcare, sustainability, market research, customer behavior and more! Feel free to explore my data-related projects and contact me!
-
 
 
 **df.describe():**
- - Quantitative Skills: Python (NumPy, Pandas, Scikit-learn, Seaborn, etc.), SQL,Google Cloud Platform, Tableau, PowerBI, Git, AWS, Web-Scarping
+ - Quantitative Skills: Python (NumPy, Pandas, Scikit-learn, Seaborn, etc.), SQL, Google Cloud Platform, Tableau, PowerBI, Git, AWS, Web-Scarping
    
  - Methodologies: Machine Learning, NLP, A/B Test, Statistical Analysis, Customer Segementation, Marketing Strategy, Risk Management
    

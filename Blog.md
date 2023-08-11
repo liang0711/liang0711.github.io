@@ -13,11 +13,11 @@ title: "Resume"
 
 # EDUCATION #
  #### Columbia University @ US - 2022-2023 ####
-  - Master of statistics
-  - Core Coursework: Statistical Analysis, Machine Learning, Linear Regression, Optimization, Deep Learning, Cloud Computing
+ - Master of Statistics
+ - Core Coursework: Statistical Analysis, Machine Learning, Linear Regression, Optimization, Deep Learning, Cloud Computing
 #### University of California, Santa Barbara @ CA - 2018 to 2022 ####
-  - Bachelor of Actuarial Science
-  - Core Coursework: Time Series, Calculus, Linear Algebra, Statistics, Microeconomics, Management
+ - Bachelor of Actuarial Science
+ - Core Coursework: Time Series, Calculus, Linear Algebra, Statistics, Microeconomics, Management
 
 # Data Science Projects #
 - [NYC Housing Price Performance Dashboard](https://liang0711.github.io/housing-Performance-examples/)

@@ -13,11 +13,9 @@ I'm An accomplished data scientist and have a solid foundation of data-centric a
 
 
 **df.describe():**
- - Quantitative Skills: Python (NumPy, Pandas, Scikit-learn, Seaborn, etc.), SQL, Google Cloud Platform, Tableau, PowerBI, Git, AWS, Web-Scarping
-   
- - Methodologies: Machine Learning, NLP, A/B Test, Statistical Analysis, Customer Segementation, Marketing Strategy, Risk Management
-   
- - Qualitative skills: Communication, Collobration, Coordianting, Project Management, Operational Research, Data-Driven Decision Making
+* Quantitative Skills: Python (NumPy, Pandas, Scikit-learn, Seaborn, etc.), SQL, Google Cloud Platform, Tableau, PowerBI, Git, AWS, Web-Scarping, Database Management
+* Methodologies: Machine Learning, NLP, A/B Test, Statistical Analysis, Customer Segementation, Marketing Strategy, Risk Management
+* Qualitative skills: Communication, Collobration, Coordianting, Project Management, Operational Research, Data-Driven Decision Making
 
 ### My Journey ###
 

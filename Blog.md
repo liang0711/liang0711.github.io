@@ -9,7 +9,7 @@ title: ""
   ***Data Analyst** - (Jul 2021 – Aug 2021)*
   
 - #### Tencent Inc. - Shenzhen, CN ####
-  ***Business Intelligence Intern** – (Oct 2020 – Dec 2023)*
+  ***Business Intelligence Intern** – (Oct 2020 – Dec 2020)*
   
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Resume"
+layout: page
+title: ""
 ---
 # Experience #
 - #### Columbia University - New York, NY ####

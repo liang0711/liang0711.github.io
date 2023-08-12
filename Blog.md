@@ -15,11 +15,11 @@ title: ""
 
 # EDUCATION #
 - #### Columbia University @ US - 2022-2023 ####
-  - Master of Statistics
-  - Core Coursework: Statistical Analysis, Machine Learning, Linear Regression, Optimization, Deep Learning, Cloud Computing
+  * Master of Statistics
+  * Core Coursework: Statistical Analysis, Machine Learning, Linear Regression, Optimization, Deep Learning, Big Data
 - #### University of California, Santa Barbara @ CA - 2018 to 2022 ####
-  - Bachelor of Actuarial Science
-  - Core Coursework: Time Series, Calculus, Linear Algebra, Statistics, Microeconomics, Financial Math, Environmental Studies
+  * Bachelor of Actuarial Science
+  * Core Coursework: Time Series, Calculus, Linear Algebra, Statistics, Microeconomics, Financial Math, Environmental Studies
 
 # Data Science Projects #
 - [NYC Housing Price Performance Dashboard](https://liang0711.github.io/housing-Performance-examples/)
@@ -28,6 +28,6 @@ title: ""
 - [DS Hackthon: Healthcare Patient’s Medication Safety Prediction](https://liang0711.github.io/Hackthon/)
 - [Ecommerce Product Arrival Analysis](https://liang0711.github.io/Ecommerce/)
 
-**Feel free to explore my data-related projects and email lz2871@columbia.edu, or click the right bottom email symbol**
+**Please feel free to email lz2871@columbia.edu, or click the right bottom email symbol for any discuss!**
 
 

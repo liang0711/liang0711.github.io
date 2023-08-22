@@ -22,9 +22,9 @@ I'm an accomplished data scientist and have a solid foundation of data-centric a
 
 ### My Journey ###
 
-Currently, I will be graduating during Dec. 2023 and I am a statistics student at Columbia University and eagerly soaking up knowledge to enhance my data analysis skills! Meanwhile, I came from China, began my global experience at sophomore year in Erie, PA and lived in NYC further expanded my horizons, allowing me to perceive the world through an international lens and adapt to the new environment quickly.
+Currently, I will be graduating during Dec. 2023 and I am a statistics student at Columbia University and eagerly soaking up knowledge to enhance my data analysis skills! Meanwhile, I came from China, began my global experience at sophomore year in Erie, PA and lived in NYC further expanded my horizons, allowing me to perceive the world through an international len and adapt to the new environment quickly.
 
-Beyond the data world, dancing and cooking to connect with the physical world. My love for hip-hop/k-pop dancing ignites my spirit, while my fascination with engaging projects continues to captivate my curiosity.
+Beyond the data world, dancing and cooking connect me with the physical world. My love for hip-hop/k-pop dancing ignites my spirit, while my fascination with engaging projects continues to captivate my curiosity.
 
 **Feel free to explore my projects and I'm excitedly anticipating our conversation via email lz2871@columbia.edu** (or click the symbol at bottom right page for direct contact)
 

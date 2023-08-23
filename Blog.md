@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Resume"
 ---
 # Experience #
 - #### Columbia University - New York, NY ####

@@ -3,10 +3,12 @@ layout: page
 title: "Resume"
 ---
 # Experience #
+- #### Columbia University - New York, NY ####
+  ***Grader** – (Sept 2023 – Present)*
 - #### International Rescume Committee - New York, NY ####
   ***Data Intern** – (Aug 2023 – Present)*
 - #### Columbia University - New York, NY ####
-  ***Research Assisstant (Part-time)** – (Jun 2023 – Present)*
+  ***Research Assisstant** – (Jun 2023 – Sept 2023)*
 - #### China International Capital Corporation - Shenzhen, CN ####
   ***Data Analyst** - (Jul 2021 – Aug 2021)*
   

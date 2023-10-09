@@ -11,7 +11,6 @@ title: "Resume"
   ***Research Assisstant** – (Jun 2023 – Sept 2023)*
 - #### China International Capital Corporation - Shenzhen, CN ####
   ***Data Analyst** - (Jul 2021 – Aug 2021)*
-  
 - #### Tencent Inc. - Shenzhen, CN ####
   ***Business Intelligence Intern** – (Oct 2020 – Dec 2020)*
   
@@ -26,7 +25,6 @@ title: "Resume"
   * Core Coursework: Time Series, Calculus, Linear Algebra, Statistics, Microeconomics, Financial Math, Environmental Studies
 
 # Data Science Projects #
-- [NYC Housing Price Performance Dashboard](https://liang0711.github.io/housing-Performance-examples/)
 - [Booking: Built Cloud Database by Web Scrapping Real-time Information](https://liang0711.github.io/Web-Scraping-and-Cloud-Database/)
 - [Google Play Store: Apps Rating Prediction and Sentiment Analysis](https://liang0711.github.io/Google/)
 - [DS Hackthon: Healthcare Patient’s Medication Safety Prediction](https://liang0711.github.io/Hackthon/)

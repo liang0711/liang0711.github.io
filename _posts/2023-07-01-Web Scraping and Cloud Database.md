@@ -10,6 +10,8 @@ categories: media
 ##### Goal: Database of Hotel Pricing 
 
 ![Dashboard](/assets/Book_Hotel_Pricing.png)
+![Dashboard](/assets/Hotel_Pricing_Dashboard.png)
+
 
 
 

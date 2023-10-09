@@ -23,6 +23,8 @@ title: "Resume"
 - #### University of California, Santa Barbara @ CA - 2018 to 2022 ####
   * Bachelor of Actuarial Science
   * Core Coursework: Time Series, Calculus, Linear Algebra, Statistics, Microeconomics, Financial Math, Environmental Studies
+- #### Villa Maria Academy @ PA - 2015 to 2018 ####
+
 
 # Data Science Projects #
 - [Booking: Built Cloud Database by Web Scrapping Real-time Information](https://liang0711.github.io/Web-Scraping-and-Cloud-Database/)

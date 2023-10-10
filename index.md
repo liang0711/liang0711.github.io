@@ -8,7 +8,7 @@ Hola!
 ### My Expertise ###
 I am Lizzy Zhao, **looking for job opportunities in the data world!**
 
-I'm an accomplished data scientist and have a solid foundation of data-centric analysis and machine learning methodologies to deliver meaningful insights, for improving business and boosting operational efficiency. A little bit about myself, by utilizing Python/SQL to to deploy advanced statistical models to derive actionable insights from complex datasets and drive strategic decisions. 
+I'm an accomplished data scientist and have a solid foundation of data-centric analysis and machine learning methodologies to deliver meaningful insights, for improving business and boosting operational efficiency. A little bit about myself, by utilizing Python/SQL to to deploy advanced statistical models from complex datasets and drive strategic decisions. 
 
 
 
